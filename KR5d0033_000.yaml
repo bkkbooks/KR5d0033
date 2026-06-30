@@ -1,0 +1,26 @@
+canonical_identifier: bkk:krp/KR5d0033/krp/v1/juan/0
+seq: 0
+front:
+  text: 河圖
+  hash: sha256:18cd8ccfcef3a9b448939a39a9e7c7e660dfe38bcd922771b1f10da2d21af256
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR5d0033_HFL_000-001a, image: hfl/0630/0630-090.png}
+body:
+  text: 河圖本數兼四方四維共四十員布為體以天五地十虛用以行其四十故合天地之數五十有五舊圖改作方體且實以天五於中故不可推用今首出圓體先徵元誤覽者詳審後圖則自可見也
+  hash: sha256:4ede6d55a0de29f2531a833198e9d0053ac6dd712236ff5d4960e1cbb21a1d8c
+metadata:
+  title: 河圖
+  edition:
+    short: krp
+  base_edition: HFL
+  date: '2015-08-29 00:59:44.408774'
+  source:
+    repository: kanripo
+    path: KR5d0033/KR5d0033_000.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+hash: sha256:76dfe6934e19a5bbbbb50b353fc697a6b22e58f7eab1ed03bf5b7c5941295c54

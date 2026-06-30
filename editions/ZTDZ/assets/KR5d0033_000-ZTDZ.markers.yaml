@@ -1,0 +1,57 @@
+canonical_identifier: bkk:krp/KR5d0033/ZTDZ/v1/markers/0
+seq: 0
+markers:
+  front:
+  - {type: line-break, offset: 0, content: '', id: KR5d0033_SJB_000-200336b01}
+  - {type: 'kr:non-cjk', offset: 0, content: '<img:image', id: KR5d0033_ZTDZ_000-bkkkrnonc1}
+  - {type: punctuation, offset: 0, content: /, id: KR5d0033_ZTDZ_000-bkkpn1}
+  - {type: 'kr:non-cjk', offset: 0, content: '200336b_1.bmp><img:image', id: KR5d0033_ZTDZ_000-bkkkrnonc2}
+  - {type: punctuation, offset: 0, content: /, id: KR5d0033_ZTDZ_000-bkkpn2}
+  - {type: 'kr:non-cjk', offset: 0, content: 200336b_2.bmp>, id: KR5d0033_ZTDZ_000-bkkkrnonc3}
+  - {type: 'kr:newline', offset: 0, content: '
+
+      ', id: KR5d0033_ZTDZ_000-bkkkrnewl1}
+  - {type: line-break, offset: 0, content: '', id: KR5d0033_SJB_000-200336b02}
+  body:
+  - {type: 'kr:newline', offset: 0, content: '
+
+      ', id: KR5d0033_ZTDZ_000-bkkkrnewl1}
+  - {type: line-break, offset: 0, content: '', id: KR5d0033_SJB_000-200336b03}
+  - {type: indent, offset: 0, content: 　　, id: KR5d0033_ZTDZ_000-bkkind1}
+  - {type: 'kr:newline', offset: 15, content: '
+
+      ', id: KR5d0033_ZTDZ_000-bkkkrnewl2}
+  - {type: line-break, offset: 15, content: '', id: KR5d0033_SJB_000-200336b04}
+  - {type: indent, offset: 15, content: 　　, id: KR5d0033_ZTDZ_000-bkkind2}
+  - {type: 'kr:newline', offset: 30, content: '
+
+      ', id: KR5d0033_ZTDZ_000-bkkkrnewl3}
+  - {type: line-break, offset: 30, content: '', id: KR5d0033_SJB_000-200336b05}
+  - {type: indent, offset: 30, content: 　　, id: KR5d0033_ZTDZ_000-bkkind3}
+  - {type: paragraph-break, offset: 38, content: '
+
+
+
+
+
+
+
+
+      ', id: KR5d0033_ZTDZ_000-bkkp1}
+  - {type: line-break, offset: 38, content: '', id: KR5d0033_SJB_000-200336b06}
+  - {type: indent, offset: 38, content: 　, id: KR5d0033_ZTDZ_000-bkkind4}
+  - {type: 'kr:newline', offset: 54, content: '
+
+      ', id: KR5d0033_ZTDZ_000-bkkkrnewl4}
+  - {type: line-break, offset: 54, content: '', id: KR5d0033_SJB_000-200336b07}
+  - {type: indent, offset: 54, content: 　, id: KR5d0033_ZTDZ_000-bkkind5}
+  - {type: 'kr:newline', offset: 70, content: '
+
+      ', id: KR5d0033_ZTDZ_000-bkkkrnewl5}
+  - {type: line-break, offset: 70, content: '', id: KR5d0033_SJB_000-200336b08}
+  - {type: indent, offset: 70, content: 　, id: KR5d0033_ZTDZ_000-bkkind6}
+  - {type: 'kr:newline', offset: 76, content: '
+
+      ', id: KR5d0033_ZTDZ_000-bkkkrnewl6}
+  back: []
+hash: sha256:9ae5519a72dd51092a0a33bae276a83d37c5160bd2ec86dc78c732f1e3a64d34
