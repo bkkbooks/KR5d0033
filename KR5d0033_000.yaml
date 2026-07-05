@@ -6,8 +6,8 @@ front:
   markers:
   - {type: page-break, offset: 0, content: '', id: KR5d0033_HFL_000-001a, image: hfl/0630/0630-090.png}
 body:
-  text: 河圖本數兼四方四維共四十員布為體以天五地十虛用以行其四十故合天地之數五十有五舊圖改作方體且實以天五於中故不可推用今首出圓體先徵元誤覽者詳審後圖則自可見也
-  hash: sha256:4ede6d55a0de29f2531a833198e9d0053ac6dd712236ff5d4960e1cbb21a1d8c
+  text: 河圖本數兼四方四維共四十員布爲體以天五地十虚用以行其四十故合天地之數五十有五舊圖改作方體且實以天五於中故不可推用今首出圓體先徵元誤覽者詳審後圖則自可見也
+  hash: sha256:1fcd2904863805e9ec9ea742c4de8a545bfe2e135bad694faed950631f84dd18
 metadata:
   title: 河圖
   edition:
@@ -23,4 +23,4 @@ metadata:
     YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
     HFL: http://img.kanripo.org/daoist/ztdz/
     WYG: http://img.kanripo.org/general/skqs/wyg/
-hash: sha256:76dfe6934e19a5bbbbb50b353fc697a6b22e58f7eab1ed03bf5b7c5941295c54
+hash: sha256:199eb365ea659a8f246936d1a5915d6730fb8c7991091bfa214f19792e0bbb18
